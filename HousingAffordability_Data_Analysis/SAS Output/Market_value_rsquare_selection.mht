@@ -1,0 +1,2213 @@
+From: "Saved by Internet Explorer 11"
+Subject: SAS Output
+Date: Fri, 12 May 2017 18:51:27 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file://C:\Users\Kathy\AppData\Local\Temp\SAS Temporary Files\_TD11872_KATHY-PC_\sashtml8.htm
+X-MimeOLE: Produced By Microsoft MimeOLE
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><META content=3D"IE=3D5.0000" =
+http-equiv=3D"X-UA-Compatible">
+<TITLE>SAS Output</TITLE>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.10570.1001">
+<META content=3D"text/html; charset=3Dwindows-1252" =
+http-equiv=3DContent-type>
+<STYLE type=3Dtext/css>.aftercaption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; PADDING-TOP: 4pt; =
+BORDER-SPACING: 0px; BACKGROUND-COLOR: #fafbfe
+}
+.batch {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: 'SAS =
+Monospace', 'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px =
+solid; BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; PADDING-BOTTOM: 7px; FONT-STYLE: =
+normal; PADDING-TOP: 7px; PADDING-LEFT: 7px; BORDER-SPACING: 1px; =
+BORDER-LEFT: #c1c1c1 1px solid; PADDING-RIGHT: 7px; BACKGROUND-COLOR: =
+#fafbfe
+}
+.beforecaption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.body {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; MARGIN-LEFT: =
+8px; BACKGROUND-COLOR: #fafbfe; MARGIN-RIGHT: 8px
+}
+.bodydate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; VERTICAL-ALIGN: top; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: right; BORDER-SPACING: 0px; =
+BACKGROUND-COLOR: #fafbfe
+}
+.bycontentfolder {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.byline {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.bylinecontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; WIDTH: =
+100%; BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: =
+#000000; FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 =
+0px solid; BACKGROUND-COLOR: #fafbfe
+}
+.caption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.cell {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.container {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.contentfolder {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.contentitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.contentproclabel {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.contentprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.contents {
+	LIST-STYLE-TYPE: decimal; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; MARGIN-LEFT: 8px; BACKGROUND-COLOR: #fafbfe; =
+MARGIN-RIGHT: 8px
+}
+.contentsdate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.contenttitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.continued {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; =
+BORDER-SPACING: 0px; BACKGROUND-COLOR: #fafbfe
+}
+.data {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.dataemphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.dataemphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+italic; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.dataempty {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.datafixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #c1c1c1 1px solid; BORDER-BOTTOM: =
+#c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: normal; BORDER-LEFT: =
+#c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.datastrong {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.datastrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.date {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.document {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+A:link {
+	COLOR: #0000ff
+}
+A:visited {
+	COLOR: #800080
+}
+A:active {
+	COLOR: #800080
+}
+.errorbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.errorcontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.errorcontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.extendedpage {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 1pt solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 1pt solid; =
+BORDER-BOTTOM: #000000 1pt solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; TEXT-ALIGN: center; BORDER-LEFT: #000000 1pt solid; =
+BACKGROUND-COLOR: #fafbfe
+}
+.fatalbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.fatalcontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.fatalcontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.folderaction {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.footer {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footeremphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footeremphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.footerstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.frame {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.graph {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; BORDER-SPACING: =
+1px; BORDER-LEFT: #c1c1c1 1px solid; BACKGROUND-COLOR: #fafbfe
+}
+.header {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headeremphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headeremphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headerempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headerfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.headersandfooters {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headerstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headerstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.index {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.indexaction {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.indexitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.indexprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.indextitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.layoutcontainer {
+	BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; BORDER-SPACING: 30px; BORDER-LEFT: =
+#000000 0px solid
+}
+.layoutregion {
+	BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; BORDER-SPACING: 30px; BORDER-LEFT: =
+#000000 0px solid
+}
+.linecontent {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#fafbfe
+}
+.list {
+	LIST-STYLE-TYPE: disc; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; BACKGROUND-COLOR: #fafbfe
+}
+.list10 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list2 {
+	LIST-STYLE-TYPE: circle; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list3 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list4 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list5 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list6 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list7 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list8 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list9 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem {
+	LIST-STYLE-TYPE: disc; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem10 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem2 {
+	LIST-STYLE-TYPE: circle; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem3 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem4 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem5 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem6 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem7 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem8 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem9 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.note {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.notebanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.notecontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.notecontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.output {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; BORDER-SPACING: =
+1px; BORDER-LEFT: #c1c1c1 1px solid; BACKGROUND-COLOR: #fafbfe
+}
+.pageno {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: =
+normal; TEXT-ALIGN: right; BORDER-SPACING: 0px; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pages {
+	LIST-STYLE-TYPE: decimal; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; MARGIN-LEFT: 8px; BACKGROUND-COLOR: #fafbfe; =
+MARGIN-RIGHT: 8px
+}
+.pagesdate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.pagesitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.pagesproclabel {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pagesprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pagestitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.paragraph {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.parskip {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: bold; FONT-STYLE: normal; =
+BORDER-SPACING: 0px; BORDER-LEFT: #000000 0px solid
+}
+.prepage {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; TEXT-ALIGN: =
+left; BACKGROUND-COLOR: #fafbfe
+}
+.proctitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.proctitlefixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.rowfooter {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooteremphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooteremphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowfooterstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheader {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderemphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderemphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowheaderstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.systemfooter {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter10 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter2 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter3 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter4 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter5 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter6 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter7 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter8 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter9 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemtitle {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle10 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle2 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle3 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle4 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle5 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle6 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle7 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle8 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle9 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systitleandfootercontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; WIDTH: =
+100%; BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: =
+#000000; FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 =
+0px solid; BACKGROUND-COLOR: #fafbfe
+}
+.table {
+	BORDER-TOP: #c1c1c1 1px solid; BORDER-RIGHT: #c1c1c1 0px solid; =
+BORDER-COLLAPSE: collapse; BORDER-BOTTOM: #c1c1c1 0px solid; =
+BORDER-SPACING: 0px; BORDER-LEFT: #c1c1c1 1px solid
+}
+.top_stacked_value {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: =
+1px; BORDER-LEFT: 0px
+}
+.middle_stacked_value {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: =
+1px; PADDING-TOP: 1px; BORDER-LEFT: 0px
+}
+.bottom_stacked_value {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-TOP: =
+1px; BORDER-LEFT: 0px
+}
+.titleandnotecontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; WIDTH: =
+100%; BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: =
+#000000; FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 =
+0px solid; BACKGROUND-COLOR: #fafbfe
+}
+.titlesandfooters {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.usertext {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.warnbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.warncontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.warncontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.l {
+	TEXT-ALIGN: left
+}
+.c {
+	TEXT-ALIGN: center
+}
+.r {
+	TEXT-ALIGN: right
+}
+.d {
+	TEXT-ALIGN: right
+}
+.j {
+	TEXT-ALIGN: justify
+}
+.t {
+	VERTICAL-ALIGN: top
+}
+.m {
+	VERTICAL-ALIGN: middle
+}
+.b {
+	VERTICAL-ALIGN: bottom
+}
+TD {
+	VERTICAL-ALIGN: top
+}
+TH {
+	VERTICAL-ALIGN: top
+}
+.stacked_cell {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; =
+PADDING-RIGHT: 0px
+}
+</STYLE>
+
+<SCRIPT language=3Djavascript type=3Dtext/javascript>
+<!--=20
+function startup(){
+
+}
+function shutdown(){
+
+}
+
+//-->
+</SCRIPT>
+</HEAD>
+<BODY class=3Dbody onload=3Dstartup() onunload=3Dshutdown()>
+<SCRIPT language=3Djavascript type=3Dtext/javascript>
+<!--=20
+var _info =3D navigator.userAgent
+var _ie =3D (_info.indexOf("MSIE") > 0
+          && _info.indexOf("Win") > 0
+          && _info.indexOf("Windows 3.1") < 0);
+var _ie64 =3D _info.indexOf("x64") > 0
+
+//-->
+</SCRIPT>
+
+<DIV class=3Dbranch><A name=3DIDX></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">market value: rsquare=20
+selection</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The REG Procedure</DIV>
+<DIV class=3D"c proctitle">Model: MODEL1</DIV>
+<DIV class=3D"c proctitle">Dependent Variable: lnvalue </DIV>
+<DIV class=3D"c proctitle">&nbsp;</DIV>
+<DIV class=3D"c proctitle">R-Square Selection Method</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Reg: Number of Observations" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Number of Observations =
+Read</TH>
+    <TD class=3D"r data">35409</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Number of Observations =
+Used</TH>
+    <TD class=3D"r data">33427</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Number of Observations with =
+Missing=20
+      Values</TH>
+    <TD class=3D"r =
+data">1982</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX1></A>
+<DIV><BR>
+<P>
+<DIV align=3Dleft>
+<TABLE class=3Dproctitle>
+  <TBODY>
+  <TR>
+    <TD class=3D"l proctitle"></TD></TR></TBODY></TABLE></DIV>
+<P>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Reg: Results" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>Number in<BR>Model</TH>
+    <TH class=3D"r b header" scope=3Dcol>R-Square</TH>
+    <TH class=3D"l b header" scope=3Dcol>Variables in =
+Model</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.3505</TH>
+    <TD class=3D"l data">sqmonthlycost</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.2839</TH>
+    <TD class=3D"l data">lnFMR</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.2029</TH>
+    <TD class=3D"l data">sqhouseincome</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.1694</TH>
+    <TD class=3D"l data">ROOMS</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.1305</TH>
+    <TD class=3D"l data">lnother</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.1283</TH>
+    <TD class=3D"l data">lnarincome</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.0831</TH>
+    <TD class=3D"l data">squtility</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.0452</TH>
+    <TD class=3D"l data">v_northeast</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.0180</TH>
+    <TD class=3D"l data">v_south</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.0177</TH>
+    <TD class=3D"l data">PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.0094</TH>
+    <TD class=3D"l data">v_y2000</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.0011</TH>
+    <TD class=3D"l data">v_y1940</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.0007</TH>
+    <TD class=3D"l data">lnunits</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.0003</TH>
+    <TD class=3D"l data">AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>1</TH>
+    <TH class=3D"r data">0.0001</TH>
+    <TD class=3D"l data">v_city</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.4338</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3931</TH>
+    <TD class=3D"l data">sqmonthlycost ROOMS</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3832</TH>
+    <TD class=3D"l data">sqmonthlycost sqhouseincome</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3799</TH>
+    <TD class=3D"l data">lnFMR sqhouseincome</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3791</TH>
+    <TD class=3D"l data">sqmonthlycost AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3773</TH>
+    <TD class=3D"l data">sqmonthlycost lnarincome</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3739</TH>
+    <TD class=3D"l data">lnother sqmonthlycost</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3604</TH>
+    <TD class=3D"l data">v_northeast sqmonthlycost</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3536</TH>
+    <TD class=3D"l data">squtility sqmonthlycost</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3532</TH>
+    <TD class=3D"l data">sqmonthlycost PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3529</TH>
+    <TD class=3D"l data">v_south sqmonthlycost</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3509</TH>
+    <TD class=3D"l data">v_y1940 sqmonthlycost</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3508</TH>
+    <TD class=3D"l data">sqmonthlycost lnunits</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3507</TH>
+    <TD class=3D"l data">v_city sqmonthlycost</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3507</TH>
+    <TD class=3D"l data">v_y2000 sqmonthlycost</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3498</TH>
+    <TD class=3D"l data">lnother lnFMR</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>2</TH>
+    <TH class=3D"r data">0.3318</TH>
+    <TD class=3D"l data">lnFMR ROOMS</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4594</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR sqhouseincome</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4538</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4538</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4516</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR ROOMS</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4411</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4356</TH>
+    <TD class=3D"l data">v_y2000 sqmonthlycost lnFMR</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4351</TH>
+    <TD class=3D"l data">v_city sqmonthlycost lnFMR</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4350</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR lnunits</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4340</TH>
+    <TD class=3D"l data">v_y1940 sqmonthlycost lnFMR</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4340</TH>
+    <TD class=3D"l data">v_northeast sqmonthlycost lnFMR</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4338</TH>
+    <TD class=3D"l data">v_south sqmonthlycost lnFMR</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4338</TH>
+    <TD class=3D"l data">squtility sqmonthlycost lnFMR</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4338</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR lnarincome</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4242</TH>
+    <TD class=3D"l data">lnother lnFMR sqhouseincome</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4224</TH>
+    <TD class=3D"l data">sqmonthlycost sqhouseincome AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4218</TH>
+    <TD class=3D"l data">sqmonthlycost lnarincome ROOMS</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>3</TH>
+    <TH class=3D"r data">0.4183</TH>
+    <TD class=3D"l data">lnother sqmonthlycost ROOMS</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4879</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR sqhouseincome =
+AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4783</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR =
+sqhouseincome</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4732</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR ROOMS</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4726</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR sqhouseincome PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4699</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR sqhouseincome =
+ROOMS</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4699</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR ROOMS AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4691</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4639</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR ROOMS PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4609</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR sqhouseincome =
+lnunits</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4607</TH>
+    <TD class=3D"l data">v_y2000 sqmonthlycost lnFMR =
+sqhouseincome</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4604</TH>
+    <TD class=3D"l data">v_city sqmonthlycost lnFMR =
+sqhouseincome</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4599</TH>
+    <TD class=3D"l data">v_northeast sqmonthlycost lnFMR =
+sqhouseincome</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4596</TH>
+    <TD class=3D"l data">v_y1940 sqmonthlycost lnFMR =
+sqhouseincome</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4595</TH>
+    <TD class=3D"l data">v_south sqmonthlycost lnFMR =
+sqhouseincome</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4594</TH>
+    <TD class=3D"l data">squtility sqmonthlycost lnFMR =
+sqhouseincome</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4594</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR lnarincome =
+sqhouseincome</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>4</TH>
+    <TH class=3D"r data">0.4587</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.5011</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR sqhouseincome =
+AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.4957</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR sqhouseincome ROOMS =
+AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.4919</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR sqhouseincome AGE1 =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.4910</TH>
+    <TD class=3D"l data">v_y2000 sqmonthlycost lnFMR sqhouseincome =
+AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.4902</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR sqhouseincome =
+ROOMS</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.4890</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR sqhouseincome AGE1 =
+lnunits</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.4885</TH>
+    <TD class=3D"l data">v_city sqmonthlycost lnFMR sqhouseincome =
+AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.4882</TH>
+    <TD class=3D"l data">squtility sqmonthlycost lnFMR sqhouseincome =
+AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.4882</TH>
+    <TD class=3D"l data">v_y1940 sqmonthlycost lnFMR sqhouseincome =
+AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.4881</TH>
+    <TD class=3D"l data">v_northeast sqmonthlycost lnFMR sqhouseincome=20
+AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.4880</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR sqhouseincome =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.4880</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR lnarincome sqhouseincome =
+AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.4879</TH>
+    <TD class=3D"l data">v_south sqmonthlycost lnFMR sqhouseincome =
+AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.4871</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR sqhouseincome ROOMS =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.4867</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR ROOMS =
+AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.4823</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR ROOMS PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>5</TH>
+    <TH class=3D"r data">0.4794</TH>
+    <TD class=3D"l data">v_city lnother sqmonthlycost lnFMR =
+sqhouseincome</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.5102</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR sqhouseincome ROOMS =
+
+  AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.5040</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR sqhouseincome AGE1=20
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.5035</TH>
+    <TD class=3D"l data">v_y2000 lnother sqmonthlycost lnFMR =
+sqhouseincome=20
+    AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.5035</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR sqhouseincome ROOMS =
+
+  PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.5022</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.5019</TH>
+    <TD class=3D"l data">v_city lnother sqmonthlycost lnFMR =
+sqhouseincome=20
+  AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.5014</TH>
+    <TD class=3D"l data">v_northeast lnother sqmonthlycost lnFMR =
+sqhouseincome=20
+      AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.5013</TH>
+    <TD class=3D"l data">v_south lnother sqmonthlycost lnFMR =
+sqhouseincome=20
+    AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.5012</TH>
+    <TD class=3D"l data">v_y1940 lnother sqmonthlycost lnFMR =
+sqhouseincome=20
+    AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.5011</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR lnarincome =
+sqhouseincome=20
+      AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.5011</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR sqhouseincome AGE1=20
+    lnunits</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.5011</TH>
+    <TD class=3D"l data">squtility lnother sqmonthlycost lnFMR =
+sqhouseincome=20
+    AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.4993</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR sqhouseincome ROOMS AGE1=20
+  lnunits</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.4981</TH>
+    <TD class=3D"l data">v_y2000 sqmonthlycost lnFMR sqhouseincome ROOMS =
+
+  AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.4975</TH>
+    <TD class=3D"l data">squtility sqmonthlycost lnFMR sqhouseincome =
+ROOMS=20
+    AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.4964</TH>
+    <TD class=3D"l data">v_northeast sqmonthlycost lnFMR sqhouseincome =
+ROOMS=20
+    AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>6</TH>
+    <TH class=3D"r data">0.4959</TH>
+    <TD class=3D"l data">v_y1940 sqmonthlycost lnFMR sqhouseincome ROOMS =
+
+  AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TH class=3D"r data">0.5154</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR sqhouseincome ROOMS =
+AGE1=20
+    PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TH class=3D"r data">0.5119</TH>
+    <TD class=3D"l data">v_y2000 lnother sqmonthlycost lnFMR =
+sqhouseincome ROOMS=20
+      AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TH class=3D"r data">0.5113</TH>
+    <TD class=3D"l data">v_northeast lnother sqmonthlycost lnFMR =
+sqhouseincome=20
+      ROOMS AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TH class=3D"r data">0.5112</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR sqhouseincome ROOMS =
+AGE1=20
+      lnunits</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TH class=3D"r data">0.5109</TH>
+    <TD class=3D"l data">squtility lnother sqmonthlycost lnFMR =
+sqhouseincome=20
+      ROOMS AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TH class=3D"r data">0.5108</TH>
+    <TD class=3D"l data">v_south lnother sqmonthlycost lnFMR =
+sqhouseincome ROOMS=20
+      AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TH class=3D"r data">0.5105</TH>
+    <TD class=3D"l data">v_city lnother sqmonthlycost lnFMR =
+sqhouseincome ROOMS=20
+      AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TH class=3D"r data">0.5105</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR lnarincome =
+sqhouseincome=20
+      ROOMS AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TH class=3D"r data">0.5102</TH>
+    <TD class=3D"l data">v_y1940 lnother sqmonthlycost lnFMR =
+sqhouseincome ROOMS=20
+      AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TH class=3D"r data">0.5065</TH>
+    <TD class=3D"l data">v_y2000 lnother sqmonthlycost lnFMR =
+sqhouseincome AGE1=20
+      PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TH class=3D"r data">0.5051</TH>
+    <TD class=3D"l data">sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 =
+lnunits=20
+    PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TH class=3D"r data">0.5049</TH>
+    <TD class=3D"l data">v_northeast lnother sqmonthlycost lnFMR =
+sqhouseincome=20
+      ROOMS PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TH class=3D"r data">0.5049</TH>
+    <TD class=3D"l data">v_city lnother sqmonthlycost lnFMR =
+sqhouseincome AGE1=20
+      PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TH class=3D"r data">0.5046</TH>
+    <TD class=3D"l data">v_y2000 sqmonthlycost lnFMR sqhouseincome ROOMS =
+AGE1=20
+    PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TH class=3D"r data">0.5044</TH>
+    <TD class=3D"l data">v_south lnother sqmonthlycost lnFMR =
+sqhouseincome ROOMS=20
+      PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TH class=3D"r data">0.5044</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR sqhouseincome ROOMS =
+lnunits=20
+      PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>7</TH>
+    <TH class=3D"r data">0.5043</TH>
+    <TD class=3D"l data">v_y2000 lnother sqmonthlycost lnFMR =
+sqhouseincome ROOMS=20
+      PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>8</TH>
+    <TH class=3D"r data">0.5171</TH>
+    <TD class=3D"l data">v_y2000 lnother sqmonthlycost lnFMR =
+sqhouseincome ROOMS=20
+      AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>8</TH>
+    <TH class=3D"r data">0.5163</TH>
+    <TD class=3D"l data">v_northeast lnother sqmonthlycost lnFMR =
+sqhouseincome=20
+      ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>8</TH>
+    <TH class=3D"r data">0.5162</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR sqhouseincome ROOMS =
+AGE1=20
+      lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>8</TH>
+    <TH class=3D"r data">0.5160</TH>
+    <TD class=3D"l data">v_south lnother sqmonthlycost lnFMR =
+sqhouseincome ROOMS=20
+      AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>8</TH>
+    <TH class=3D"r data">0.5158</TH>
+    <TD class=3D"l data">v_city lnother sqmonthlycost lnFMR =
+sqhouseincome ROOMS=20
+      AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>8</TH>
+    <TH class=3D"r data">0.5156</TH>
+    <TD class=3D"l data">squtility lnother sqmonthlycost lnFMR =
+sqhouseincome=20
+      ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>8</TH>
+    <TH class=3D"r data">0.5155</TH>
+    <TD class=3D"l data">lnother sqmonthlycost lnFMR lnarincome =
+sqhouseincome=20
+      ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>8</TH>
+    <TH class=3D"r data">0.5155</TH>
+    <TD class=3D"l data">v_y1940 lnother sqmonthlycost lnFMR =
+sqhouseincome ROOMS=20
+      AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>8</TH>
+    <TH class=3D"r data">0.5133</TH>
+    <TD class=3D"l data">v_y2000 v_northeast lnother sqmonthlycost lnFMR =
+
+      sqhouseincome ROOMS AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>8</TH>
+    <TH class=3D"r data">0.5129</TH>
+    <TD class=3D"l data">v_y2000 lnother sqmonthlycost lnFMR =
+sqhouseincome ROOMS=20
+      AGE1 lnunits</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>8</TH>
+    <TH class=3D"r data">0.5128</TH>
+    <TD class=3D"l data">v_y2000 v_south lnother sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>8</TH>
+    <TH class=3D"r data">0.5125</TH>
+    <TD class=3D"l data">v_y2000 squtility lnother sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>8</TH>
+    <TH class=3D"r data">0.5124</TH>
+    <TD class=3D"l data">v_y2000 lnother sqmonthlycost lnFMR lnarincome=20
+      sqhouseincome ROOMS AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>8</TH>
+    <TH class=3D"r data">0.5122</TH>
+    <TD class=3D"l data">v_northeast squtility lnother sqmonthlycost =
+lnFMR=20
+      sqhouseincome ROOMS AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>8</TH>
+    <TH class=3D"r data">0.5122</TH>
+    <TD class=3D"l data">v_northeast lnother sqmonthlycost lnFMR =
+sqhouseincome=20
+      ROOMS AGE1 lnunits</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>8</TH>
+    <TH class=3D"r data">0.5122</TH>
+    <TD class=3D"l data">v_y2000 v_city lnother sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>8</TH>
+    <TH class=3D"r data">0.5119</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 lnother sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9</TH>
+    <TH class=3D"r data">0.5184</TH>
+    <TD class=3D"l data">v_y2000 v_northeast lnother sqmonthlycost lnFMR =
+
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9</TH>
+    <TH class=3D"r data">0.5181</TH>
+    <TD class=3D"l data">v_y2000 v_south lnother sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9</TH>
+    <TH class=3D"r data">0.5180</TH>
+    <TD class=3D"l data">v_y2000 lnother sqmonthlycost lnFMR =
+sqhouseincome ROOMS=20
+      AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9</TH>
+    <TH class=3D"r data">0.5175</TH>
+    <TD class=3D"l data">v_y2000 v_city lnother sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9</TH>
+    <TH class=3D"r data">0.5174</TH>
+    <TD class=3D"l data">v_y2000 lnother sqmonthlycost lnFMR lnarincome=20
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9</TH>
+    <TH class=3D"r data">0.5173</TH>
+    <TD class=3D"l data">v_y2000 squtility lnother sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9</TH>
+    <TH class=3D"r data">0.5171</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 lnother sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9</TH>
+    <TH class=3D"r data">0.5171</TH>
+    <TD class=3D"l data">v_northeast lnother sqmonthlycost lnFMR =
+sqhouseincome=20
+      ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9</TH>
+    <TH class=3D"r data">0.5167</TH>
+    <TD class=3D"l data">v_south lnother sqmonthlycost lnFMR =
+sqhouseincome ROOMS=20
+      AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9</TH>
+    <TH class=3D"r data">0.5167</TH>
+    <TD class=3D"l data">v_city lnother sqmonthlycost lnFMR =
+sqhouseincome ROOMS=20
+      AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9</TH>
+    <TH class=3D"r data">0.5167</TH>
+    <TD class=3D"l data">v_northeast squtility lnother sqmonthlycost =
+lnFMR=20
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9</TH>
+    <TH class=3D"r data">0.5166</TH>
+    <TD class=3D"l data">v_northeast v_city lnother sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9</TH>
+    <TH class=3D"r data">0.5166</TH>
+    <TD class=3D"l data">v_northeast v_south lnother sqmonthlycost lnFMR =
+
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9</TH>
+    <TH class=3D"r data">0.5166</TH>
+    <TD class=3D"l data">v_y1940 v_northeast lnother sqmonthlycost lnFMR =
+
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9</TH>
+    <TH class=3D"r data">0.5164</TH>
+    <TD class=3D"l data">v_south v_city lnother sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9</TH>
+    <TH class=3D"r data">0.5163</TH>
+    <TD class=3D"l data">v_northeast lnother sqmonthlycost lnFMR =
+lnarincome=20
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9</TH>
+    <TH class=3D"r data">0.5163</TH>
+    <TD class=3D"l data">v_y1940 lnother sqmonthlycost lnFMR =
+sqhouseincome ROOMS=20
+      AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10</TH>
+    <TH class=3D"r data">0.5191</TH>
+    <TD class=3D"l data">v_y2000 v_northeast lnother sqmonthlycost lnFMR =
+
+      sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10</TH>
+    <TH class=3D"r data">0.5188</TH>
+    <TD class=3D"l data">v_y2000 v_south lnother sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10</TH>
+    <TH class=3D"r data">0.5188</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_south lnother =
+sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10</TH>
+    <TH class=3D"r data">0.5187</TH>
+    <TD class=3D"l data">v_y2000 v_northeast squtility lnother =
+sqmonthlycost=20
+      lnFMR sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10</TH>
+    <TH class=3D"r data">0.5186</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_city lnother =
+sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10</TH>
+    <TH class=3D"r data">0.5185</TH>
+    <TD class=3D"l data">v_y2000 v_city lnother sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10</TH>
+    <TH class=3D"r data">0.5185</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast lnother =
+sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10</TH>
+    <TH class=3D"r data">0.5184</TH>
+    <TD class=3D"l data">v_y2000 v_northeast lnother sqmonthlycost lnFMR =
+
+      lnarincome sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10</TH>
+    <TH class=3D"r data">0.5184</TH>
+    <TD class=3D"l data">v_y2000 v_south v_city lnother sqmonthlycost =
+lnFMR=20
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10</TH>
+    <TH class=3D"r data">0.5182</TH>
+    <TD class=3D"l data">v_y2000 lnother sqmonthlycost lnFMR lnarincome=20
+      sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10</TH>
+    <TH class=3D"r data">0.5182</TH>
+    <TD class=3D"l data">v_y2000 v_south squtility lnother sqmonthlycost =
+lnFMR=20
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10</TH>
+    <TH class=3D"r data">0.5181</TH>
+    <TD class=3D"l data">v_y2000 v_south lnother sqmonthlycost lnFMR =
+lnarincome=20
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10</TH>
+    <TH class=3D"r data">0.5181</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_south lnother sqmonthlycost =
+lnFMR=20
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10</TH>
+    <TH class=3D"r data">0.5180</TH>
+    <TD class=3D"l data">v_y2000 squtility lnother sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10</TH>
+    <TH class=3D"r data">0.5180</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 lnother sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10</TH>
+    <TH class=3D"r data">0.5177</TH>
+    <TD class=3D"l data">v_y2000 v_city lnother sqmonthlycost lnFMR =
+lnarincome=20
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10</TH>
+    <TH class=3D"r data">0.5176</TH>
+    <TD class=3D"l data">v_y2000 v_city squtility lnother sqmonthlycost =
+lnFMR=20
+      sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11</TH>
+    <TH class=3D"r data">0.5195</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_south lnother =
+sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11</TH>
+    <TH class=3D"r data">0.5195</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_city lnother =
+sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11</TH>
+    <TH class=3D"r data">0.5193</TH>
+    <TD class=3D"l data">v_y2000 v_south v_city lnother sqmonthlycost =
+lnFMR=20
+      sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11</TH>
+    <TH class=3D"r data">0.5192</TH>
+    <TD class=3D"l data">v_y2000 v_northeast squtility lnother =
+sqmonthlycost=20
+      lnFMR sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11</TH>
+    <TH class=3D"r data">0.5192</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast lnother =
+sqmonthlycost lnFMR=20
+      sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11</TH>
+    <TH class=3D"r data">0.5191</TH>
+    <TD class=3D"l data">v_y2000 v_northeast lnother sqmonthlycost lnFMR =
+
+      lnarincome sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11</TH>
+    <TH class=3D"r data">0.5191</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_south v_city lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11</TH>
+    <TH class=3D"r data">0.5190</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_south squtility lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11</TH>
+    <TH class=3D"r data">0.5189</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11</TH>
+    <TH class=3D"r data">0.5189</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_city squtility lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11</TH>
+    <TH class=3D"r data">0.5189</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_south lnother sqmonthlycost =
+lnFMR=20
+      sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11</TH>
+    <TH class=3D"r data">0.5189</TH>
+    <TD class=3D"l data">v_y2000 v_south lnother sqmonthlycost lnFMR =
+lnarincome=20
+      sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11</TH>
+    <TH class=3D"r data">0.5188</TH>
+    <TD class=3D"l data">v_y2000 v_south squtility lnother sqmonthlycost =
+lnFMR=20
+      sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11</TH>
+    <TH class=3D"r data">0.5188</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_south lnother =
+sqmonthlycost lnFMR=20
+      lnarincome sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11</TH>
+    <TH class=3D"r data">0.5187</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast squtility lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11</TH>
+    <TH class=3D"r data">0.5187</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_city lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11</TH>
+    <TH class=3D"r data">0.5187</TH>
+    <TD class=3D"l data">v_y2000 v_city lnother sqmonthlycost lnFMR =
+lnarincome=20
+      sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12</TH>
+    <TH class=3D"r data">0.5199</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_south v_city lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12</TH>
+    <TH class=3D"r data">0.5196</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12</TH>
+    <TH class=3D"r data">0.5196</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_south squtility lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12</TH>
+    <TH class=3D"r data">0.5196</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_city squtility lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12</TH>
+    <TH class=3D"r data">0.5195</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_city lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12</TH>
+    <TH class=3D"r data">0.5195</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_south lnother =
+sqmonthlycost lnFMR=20
+      lnarincome sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12</TH>
+    <TH class=3D"r data">0.5195</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_city lnother =
+sqmonthlycost lnFMR=20
+      lnarincome sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12</TH>
+    <TH class=3D"r data">0.5193</TH>
+    <TD class=3D"l data">v_y2000 v_south v_city lnother sqmonthlycost =
+lnFMR=20
+      lnarincome sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12</TH>
+    <TH class=3D"r data">0.5193</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_south v_city lnother =
+sqmonthlycost=20
+      lnFMR sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12</TH>
+    <TH class=3D"r data">0.5193</TH>
+    <TD class=3D"l data">v_y2000 v_south v_city squtility lnother =
+sqmonthlycost=20
+      lnFMR sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12</TH>
+    <TH class=3D"r data">0.5193</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast squtility lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12</TH>
+    <TH class=3D"r data">0.5193</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_south v_city squtility =
+lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12</TH>
+    <TH class=3D"r data">0.5192</TH>
+    <TD class=3D"l data">v_y2000 v_northeast squtility lnother =
+sqmonthlycost=20
+      lnFMR lnarincome sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12</TH>
+    <TH class=3D"r data">0.5192</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast lnother =
+sqmonthlycost lnFMR=20
+      lnarincome sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12</TH>
+    <TH class=3D"r data">0.5191</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south v_city =
+lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12</TH>
+    <TH class=3D"r data">0.5191</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south squtility =
+lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12</TH>
+    <TH class=3D"r data">0.5191</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_south v_city lnother=20
+      sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1 =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13</TH>
+    <TH class=3D"r data">0.5200</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south v_city =
+lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13</TH>
+    <TH class=3D"r data">0.5199</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_south v_city squtility =
+lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13</TH>
+    <TH class=3D"r data">0.5199</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_south v_city lnother=20
+      sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1 lnunits =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13</TH>
+    <TH class=3D"r data">0.5197</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south squtility =
+lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13</TH>
+    <TH class=3D"r data">0.5196</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south lnother=20
+      sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1 lnunits =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13</TH>
+    <TH class=3D"r data">0.5196</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_city squtility =
+lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13</TH>
+    <TH class=3D"r data">0.5196</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_south squtility lnother=20
+      sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1 lnunits =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13</TH>
+    <TH class=3D"r data">0.5196</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_city squtility lnother=20
+      sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1 lnunits =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13</TH>
+    <TH class=3D"r data">0.5195</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_city lnother=20
+      sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1 lnunits =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13</TH>
+    <TH class=3D"r data">0.5193</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_south v_city lnother =
+sqmonthlycost=20
+      lnFMR lnarincome sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13</TH>
+    <TH class=3D"r data">0.5193</TH>
+    <TD class=3D"l data">v_y2000 v_south v_city squtility lnother =
+sqmonthlycost=20
+      lnFMR lnarincome sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13</TH>
+    <TH class=3D"r data">0.5193</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_south v_city squtility =
+lnother=20
+      sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 lnunits PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13</TH>
+    <TH class=3D"r data">0.5193</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south v_city =
+squtility=20
+      lnother sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13</TH>
+    <TH class=3D"r data">0.5193</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast squtility lnother=20
+      sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1 lnunits =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13</TH>
+    <TH class=3D"r data">0.5193</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_south v_city squtility =
+lnother=20
+      sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1 =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13</TH>
+    <TH class=3D"r data">0.5191</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south v_city =
+lnother=20
+      sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1 =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13</TH>
+    <TH class=3D"r data">0.5191</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south squtility =
+lnother=20
+      sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1 =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14</TH>
+    <TH class=3D"r data">0.5200</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south v_city =
+squtility=20
+      lnother sqmonthlycost lnFMR sqhouseincome ROOMS AGE1 lnunits =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14</TH>
+    <TH class=3D"r data">0.5200</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south v_city =
+lnother=20
+      sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1 lnunits =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14</TH>
+    <TH class=3D"r data">0.5200</TH>
+    <TD class=3D"l data">v_y2000 v_northeast v_south v_city squtility =
+lnother=20
+      sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1 lnunits =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14</TH>
+    <TH class=3D"r data">0.5197</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south squtility =
+lnother=20
+      sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1 lnunits =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14</TH>
+    <TH class=3D"r data">0.5196</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_city squtility =
+lnother=20
+      sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1 lnunits =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14</TH>
+    <TH class=3D"r data">0.5193</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_south v_city squtility =
+lnother=20
+      sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1 lnunits =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14</TH>
+    <TH class=3D"r data">0.5193</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south v_city =
+squtility=20
+      lnother sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1 =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14</TH>
+    <TH class=3D"r data">0.5180</TH>
+    <TD class=3D"l data">v_y1940 v_northeast v_south v_city squtility =
+lnother=20
+      sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1 lnunits =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14</TH>
+    <TH class=3D"r data">0.5154</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south v_city =
+squtility=20
+      lnother sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1=20
+  lnunits</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14</TH>
+    <TH class=3D"r data">0.5091</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south v_city =
+squtility=20
+      sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1 lnunits =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14</TH>
+    <TH class=3D"r data">0.5086</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south v_city =
+squtility=20
+      lnother sqmonthlycost lnFMR lnarincome sqhouseincome AGE1 lnunits=20
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14</TH>
+    <TH class=3D"r data">0.5079</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south v_city =
+squtility=20
+      lnother sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS lnunits =
+
+  PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14</TH>
+    <TH class=3D"r data">0.4955</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south v_city =
+squtility=20
+      lnother sqmonthlycost lnFMR lnarincome ROOMS AGE1 lnunits =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14</TH>
+    <TH class=3D"r data">0.4895</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south v_city =
+squtility=20
+      lnother sqmonthlycost lnarincome sqhouseincome ROOMS AGE1 lnunits=20
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14</TH>
+    <TH class=3D"r data">0.4668</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south v_city =
+squtility=20
+      lnother lnFMR lnarincome sqhouseincome ROOMS AGE1 lnunits =
+PER</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>15</TH>
+    <TH class=3D"r data">0.5200</TH>
+    <TD class=3D"l data">v_y1940 v_y2000 v_northeast v_south v_city =
+squtility=20
+      lnother sqmonthlycost lnFMR lnarincome sqhouseincome ROOMS AGE1 =
+lnunits=20
+    PER</TD></TR></TBODY></TABLE></DIV><BR>
+<P>
+<DIV align=3Dleft>
+<TABLE class=3Dproctitle>
+  <TBODY>
+  <TR>
+    <TD class=3D"l proctitle"></TD></TR></TBODY></TABLE></DIV>
+<P></P></DIV><BR><BR>
+<P>
+<DIV align=3Dleft>
+<TABLE class=3Dproctitle>
+  <TBODY>
+  <TR>
+    <TD class=3D"l proctitle">&nbsp;</TD></TR></TBODY></TABLE></DIV>
+<P></P></DIV></BODY></HTML>

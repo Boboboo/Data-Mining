@@ -1,0 +1,1566 @@
+From: "Saved by Internet Explorer 11"
+Subject: SAS Output
+Date: Fri, 12 May 2017 18:56:53 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file://C:\Users\Kathy\AppData\Local\Temp\SAS Temporary Files\_TD11872_KATHY-PC_\sashtml14.htm
+X-MimeOLE: Produced By Microsoft MimeOLE
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><META content=3D"IE=3D5.0000" =
+http-equiv=3D"X-UA-Compatible">
+<TITLE>SAS Output</TITLE>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.10570.1001">
+<META content=3D"text/html; charset=3Dwindows-1252" =
+http-equiv=3DContent-type>
+<STYLE type=3Dtext/css>.aftercaption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; PADDING-TOP: 4pt; =
+BORDER-SPACING: 0px; BACKGROUND-COLOR: #fafbfe
+}
+.batch {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: 'SAS =
+Monospace', 'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px =
+solid; BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; PADDING-BOTTOM: 7px; FONT-STYLE: =
+normal; PADDING-TOP: 7px; PADDING-LEFT: 7px; BORDER-SPACING: 1px; =
+BORDER-LEFT: #c1c1c1 1px solid; PADDING-RIGHT: 7px; BACKGROUND-COLOR: =
+#fafbfe
+}
+.beforecaption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.body {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; MARGIN-LEFT: =
+8px; BACKGROUND-COLOR: #fafbfe; MARGIN-RIGHT: 8px
+}
+.bodydate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; VERTICAL-ALIGN: top; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: right; BORDER-SPACING: 0px; =
+BACKGROUND-COLOR: #fafbfe
+}
+.bycontentfolder {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.byline {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.bylinecontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; WIDTH: =
+100%; BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: =
+#000000; FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 =
+0px solid; BACKGROUND-COLOR: #fafbfe
+}
+.caption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.cell {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.container {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.contentfolder {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.contentitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.contentproclabel {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.contentprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.contents {
+	LIST-STYLE-TYPE: decimal; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; MARGIN-LEFT: 8px; BACKGROUND-COLOR: #fafbfe; =
+MARGIN-RIGHT: 8px
+}
+.contentsdate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.contenttitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.continued {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; =
+BORDER-SPACING: 0px; BACKGROUND-COLOR: #fafbfe
+}
+.data {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.dataemphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.dataemphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+italic; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.dataempty {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.datafixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #c1c1c1 1px solid; BORDER-BOTTOM: =
+#c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: normal; BORDER-LEFT: =
+#c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.datastrong {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.datastrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.date {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.document {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+A:link {
+	COLOR: #0000ff
+}
+A:visited {
+	COLOR: #800080
+}
+A:active {
+	COLOR: #800080
+}
+.errorbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.errorcontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.errorcontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.extendedpage {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 1pt solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 1pt solid; =
+BORDER-BOTTOM: #000000 1pt solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; TEXT-ALIGN: center; BORDER-LEFT: #000000 1pt solid; =
+BACKGROUND-COLOR: #fafbfe
+}
+.fatalbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.fatalcontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.fatalcontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.folderaction {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.footer {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footeremphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footeremphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.footerstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.frame {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.graph {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; BORDER-SPACING: =
+1px; BORDER-LEFT: #c1c1c1 1px solid; BACKGROUND-COLOR: #fafbfe
+}
+.header {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headeremphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headeremphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headerempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headerfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.headersandfooters {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headerstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headerstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.index {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.indexaction {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.indexitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.indexprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.indextitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.layoutcontainer {
+	BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; BORDER-SPACING: 30px; BORDER-LEFT: =
+#000000 0px solid
+}
+.layoutregion {
+	BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; BORDER-SPACING: 30px; BORDER-LEFT: =
+#000000 0px solid
+}
+.linecontent {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#fafbfe
+}
+.list {
+	LIST-STYLE-TYPE: disc; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; BACKGROUND-COLOR: #fafbfe
+}
+.list10 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list2 {
+	LIST-STYLE-TYPE: circle; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list3 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list4 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list5 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list6 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list7 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list8 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list9 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem {
+	LIST-STYLE-TYPE: disc; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem10 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem2 {
+	LIST-STYLE-TYPE: circle; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem3 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem4 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem5 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem6 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem7 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem8 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem9 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.note {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.notebanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.notecontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.notecontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.output {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; BORDER-SPACING: =
+1px; BORDER-LEFT: #c1c1c1 1px solid; BACKGROUND-COLOR: #fafbfe
+}
+.pageno {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: =
+normal; TEXT-ALIGN: right; BORDER-SPACING: 0px; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pages {
+	LIST-STYLE-TYPE: decimal; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; MARGIN-LEFT: 8px; BACKGROUND-COLOR: #fafbfe; =
+MARGIN-RIGHT: 8px
+}
+.pagesdate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.pagesitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.pagesproclabel {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pagesprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pagestitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.paragraph {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.parskip {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: bold; FONT-STYLE: normal; =
+BORDER-SPACING: 0px; BORDER-LEFT: #000000 0px solid
+}
+.prepage {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; TEXT-ALIGN: =
+left; BACKGROUND-COLOR: #fafbfe
+}
+.proctitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.proctitlefixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.rowfooter {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooteremphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooteremphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowfooterstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheader {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderemphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderemphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowheaderstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.systemfooter {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter10 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter2 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter3 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter4 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter5 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter6 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter7 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter8 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter9 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemtitle {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle10 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle2 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle3 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle4 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle5 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle6 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle7 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle8 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle9 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systitleandfootercontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; WIDTH: =
+100%; BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: =
+#000000; FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 =
+0px solid; BACKGROUND-COLOR: #fafbfe
+}
+.table {
+	BORDER-TOP: #c1c1c1 1px solid; BORDER-RIGHT: #c1c1c1 0px solid; =
+BORDER-COLLAPSE: collapse; BORDER-BOTTOM: #c1c1c1 0px solid; =
+BORDER-SPACING: 0px; BORDER-LEFT: #c1c1c1 1px solid
+}
+.top_stacked_value {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: =
+1px; BORDER-LEFT: 0px
+}
+.middle_stacked_value {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: =
+1px; PADDING-TOP: 1px; BORDER-LEFT: 0px
+}
+.bottom_stacked_value {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-TOP: =
+1px; BORDER-LEFT: 0px
+}
+.titleandnotecontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; WIDTH: =
+100%; BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: =
+#000000; FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 =
+0px solid; BACKGROUND-COLOR: #fafbfe
+}
+.titlesandfooters {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.usertext {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.warnbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.warncontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.warncontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.l {
+	TEXT-ALIGN: left
+}
+.c {
+	TEXT-ALIGN: center
+}
+.r {
+	TEXT-ALIGN: right
+}
+.d {
+	TEXT-ALIGN: right
+}
+.j {
+	TEXT-ALIGN: justify
+}
+.t {
+	VERTICAL-ALIGN: top
+}
+.m {
+	VERTICAL-ALIGN: middle
+}
+.b {
+	VERTICAL-ALIGN: bottom
+}
+TD {
+	VERTICAL-ALIGN: top
+}
+TH {
+	VERTICAL-ALIGN: top
+}
+.stacked_cell {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; =
+PADDING-RIGHT: 0px
+}
+</STYLE>
+
+<SCRIPT language=3Djavascript type=3Dtext/javascript>
+<!--=20
+function startup(){
+
+}
+function shutdown(){
+
+}
+
+//-->
+</SCRIPT>
+</HEAD>
+<BODY class=3Dbody onload=3Dstartup() onunload=3Dshutdown()>
+<SCRIPT language=3Djavascript type=3Dtext/javascript>
+<!--=20
+var _info =3D navigator.userAgent
+var _ie =3D (_info.indexOf("MSIE") > 0
+          && _info.indexOf("Win") > 0
+          && _info.indexOf("Windows 3.1") < 0);
+var _ie64 =3D _info.indexOf("x64") > 0
+
+//-->
+</SCRIPT>
+
+<DIV class=3Dbranch><A name=3DIDX></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">market value test=20
+dataset</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The FREQ Procedure</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Freq: One-Way Frequencies" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"r b header" scope=3Dcol>lnvalue</TH>
+    <TH class=3D"r b header" scope=3Dcol>Frequency</TH>
+    <TH class=3D"r b header" scope=3Dcol>Percent</TH>
+    <TH class=3D"r b header" scope=3Dcol>Cumulative<BR>Frequency</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Cumulative<BR>Percent</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9.210340372</TH>
+    <TD class=3D"r data">276</TD>
+    <TD class=3D"r data">1.56</TD>
+    <TD class=3D"r data">276</TD>
+    <TD class=3D"r data">1.56</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>9.9034875525</TH>
+    <TD class=3D"r data">238</TD>
+    <TD class=3D"r data">1.34</TD>
+    <TD class=3D"r data">514</TD>
+    <TD class=3D"r data">2.90</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10.308952661</TH>
+    <TD class=3D"r data">308</TD>
+    <TD class=3D"r data">1.74</TD>
+    <TD class=3D"r data">822</TD>
+    <TD class=3D"r data">4.64</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10.596634733</TH>
+    <TD class=3D"r data">350</TD>
+    <TD class=3D"r data">1.98</TD>
+    <TD class=3D"r data">1172</TD>
+    <TD class=3D"r data">6.62</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>10.819778284</TH>
+    <TD class=3D"r data">461</TD>
+    <TD class=3D"r data">2.60</TD>
+    <TD class=3D"r data">1633</TD>
+    <TD class=3D"r data">9.22</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11.002099841</TH>
+    <TD class=3D"r data">423</TD>
+    <TD class=3D"r data">2.39</TD>
+    <TD class=3D"r data">2056</TD>
+    <TD class=3D"r data">11.61</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11.156250521</TH>
+    <TD class=3D"r data">523</TD>
+    <TD class=3D"r data">2.95</TD>
+    <TD class=3D"r data">2579</TD>
+    <TD class=3D"r data">14.57</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11.289781914</TH>
+    <TD class=3D"r data">753</TD>
+    <TD class=3D"r data">4.25</TD>
+    <TD class=3D"r data">3332</TD>
+    <TD class=3D"r data">18.82</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11.407564949</TH>
+    <TD class=3D"r data">653</TD>
+    <TD class=3D"r data">3.69</TD>
+    <TD class=3D"r data">3985</TD>
+    <TD class=3D"r data">22.51</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11.512925465</TH>
+    <TD class=3D"r data">874</TD>
+    <TD class=3D"r data">4.94</TD>
+    <TD class=3D"r data">4859</TD>
+    <TD class=3D"r data">27.44</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11.608235645</TH>
+    <TD class=3D"r data">337</TD>
+    <TD class=3D"r data">1.90</TD>
+    <TD class=3D"r data">5196</TD>
+    <TD class=3D"r data">29.35</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11.695247022</TH>
+    <TD class=3D"r data">568</TD>
+    <TD class=3D"r data">3.21</TD>
+    <TD class=3D"r data">5764</TD>
+    <TD class=3D"r data">32.56</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11.775289729</TH>
+    <TD class=3D"r data">669</TD>
+    <TD class=3D"r data">3.78</TD>
+    <TD class=3D"r data">6433</TD>
+    <TD class=3D"r data">36.33</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11.849397702</TH>
+    <TD class=3D"r data">459</TD>
+    <TD class=3D"r data">2.59</TD>
+    <TD class=3D"r data">6892</TD>
+    <TD class=3D"r data">38.93</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11.918390573</TH>
+    <TD class=3D"r data">917</TD>
+    <TD class=3D"r data">5.18</TD>
+    <TD class=3D"r data">7809</TD>
+    <TD class=3D"r data">44.11</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>11.982929094</TH>
+    <TD class=3D"r data">375</TD>
+    <TD class=3D"r data">2.12</TD>
+    <TD class=3D"r data">8184</TD>
+    <TD class=3D"r data">46.22</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.043553716</TH>
+    <TD class=3D"r data">380</TD>
+    <TD class=3D"r data">2.15</TD>
+    <TD class=3D"r data">8564</TD>
+    <TD class=3D"r data">48.37</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.10071213</TH>
+    <TD class=3D"r data">705</TD>
+    <TD class=3D"r data">3.98</TD>
+    <TD class=3D"r data">9269</TD>
+    <TD class=3D"r data">52.35</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.154779351</TH>
+    <TD class=3D"r data">289</TD>
+    <TD class=3D"r data">1.63</TD>
+    <TD class=3D"r data">9558</TD>
+    <TD class=3D"r data">53.98</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.206072646</TH>
+    <TD class=3D"r data">884</TD>
+    <TD class=3D"r data">4.99</TD>
+    <TD class=3D"r data">10442</TD>
+    <TD class=3D"r data">58.98</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.25486281</TH>
+    <TD class=3D"r data">161</TD>
+    <TD class=3D"r data">0.91</TD>
+    <TD class=3D"r data">10603</TD>
+    <TD class=3D"r data">59.89</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.301382825</TH>
+    <TD class=3D"r data">240</TD>
+    <TD class=3D"r data">1.36</TD>
+    <TD class=3D"r data">10843</TD>
+    <TD class=3D"r data">61.24</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.345834588</TH>
+    <TD class=3D"r data">375</TD>
+    <TD class=3D"r data">2.12</TD>
+    <TD class=3D"r data">11218</TD>
+    <TD class=3D"r data">63.36</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.388394202</TH>
+    <TD class=3D"r data">200</TD>
+    <TD class=3D"r data">1.13</TD>
+    <TD class=3D"r data">11418</TD>
+    <TD class=3D"r data">64.49</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.429216197</TH>
+    <TD class=3D"r data">696</TD>
+    <TD class=3D"r data">3.93</TD>
+    <TD class=3D"r data">12114</TD>
+    <TD class=3D"r data">68.42</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.46843691</TH>
+    <TD class=3D"r data">170</TD>
+    <TD class=3D"r data">0.96</TD>
+    <TD class=3D"r data">12284</TD>
+    <TD class=3D"r data">69.38</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.506177238</TH>
+    <TD class=3D"r data">113</TD>
+    <TD class=3D"r data">0.64</TD>
+    <TD class=3D"r data">12397</TD>
+    <TD class=3D"r data">70.02</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.542544882</TH>
+    <TD class=3D"r data">317</TD>
+    <TD class=3D"r data">1.79</TD>
+    <TD class=3D"r data">12714</TD>
+    <TD class=3D"r data">71.81</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.577636202</TH>
+    <TD class=3D"r data">126</TD>
+    <TD class=3D"r data">0.71</TD>
+    <TD class=3D"r data">12840</TD>
+    <TD class=3D"r data">72.52</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.611537754</TH>
+    <TD class=3D"r data">710</TD>
+    <TD class=3D"r data">4.01</TD>
+    <TD class=3D"r data">13550</TD>
+    <TD class=3D"r data">76.53</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.644327576</TH>
+    <TD class=3D"r data">60</TD>
+    <TD class=3D"r data">0.34</TD>
+    <TD class=3D"r data">13610</TD>
+    <TD class=3D"r data">76.87</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.676076275</TH>
+    <TD class=3D"r data">147</TD>
+    <TD class=3D"r data">0.83</TD>
+    <TD class=3D"r data">13757</TD>
+    <TD class=3D"r data">77.70</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.706847933</TH>
+    <TD class=3D"r data">202</TD>
+    <TD class=3D"r data">1.14</TD>
+    <TD class=3D"r data">13959</TD>
+    <TD class=3D"r data">78.84</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.736700897</TH>
+    <TD class=3D"r data">64</TD>
+    <TD class=3D"r data">0.36</TD>
+    <TD class=3D"r data">14023</TD>
+    <TD class=3D"r data">79.20</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.765688433</TH>
+    <TD class=3D"r data">497</TD>
+    <TD class=3D"r data">2.81</TD>
+    <TD class=3D"r data">14520</TD>
+    <TD class=3D"r data">82.01</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.79385931</TH>
+    <TD class=3D"r data">59</TD>
+    <TD class=3D"r data">0.33</TD>
+    <TD class=3D"r data">14579</TD>
+    <TD class=3D"r data">82.34</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.821258285</TH>
+    <TD class=3D"r data">52</TD>
+    <TD class=3D"r data">0.29</TD>
+    <TD class=3D"r data">14631</TD>
+    <TD class=3D"r data">82.64</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.847926532</TH>
+    <TD class=3D"r data">163</TD>
+    <TD class=3D"r data">0.92</TD>
+    <TD class=3D"r data">14794</TD>
+    <TD class=3D"r data">83.56</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.873902018</TH>
+    <TD class=3D"r data">67</TD>
+    <TD class=3D"r data">0.38</TD>
+    <TD class=3D"r data">14861</TD>
+    <TD class=3D"r data">83.94</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.899219826</TH>
+    <TD class=3D"r data">446</TD>
+    <TD class=3D"r data">2.52</TD>
+    <TD class=3D"r data">15307</TD>
+    <TD class=3D"r data">86.46</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.923912439</TH>
+    <TD class=3D"r data">31</TD>
+    <TD class=3D"r data">0.18</TD>
+    <TD class=3D"r data">15338</TD>
+    <TD class=3D"r data">86.63</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.94800999</TH>
+    <TD class=3D"r data">42</TD>
+    <TD class=3D"r data">0.24</TD>
+    <TD class=3D"r data">15380</TD>
+    <TD class=3D"r data">86.87</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.971540488</TH>
+    <TD class=3D"r data">103</TD>
+    <TD class=3D"r data">0.58</TD>
+    <TD class=3D"r data">15483</TD>
+    <TD class=3D"r data">87.45</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>12.994530006</TH>
+    <TD class=3D"r data">34</TD>
+    <TD class=3D"r data">0.19</TD>
+    <TD class=3D"r data">15517</TD>
+    <TD class=3D"r data">87.64</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.017002862</TH>
+    <TD class=3D"r data">258</TD>
+    <TD class=3D"r data">1.46</TD>
+    <TD class=3D"r data">15775</TD>
+    <TD class=3D"r data">89.10</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.038981768</TH>
+    <TD class=3D"r data">31</TD>
+    <TD class=3D"r data">0.18</TD>
+    <TD class=3D"r data">15806</TD>
+    <TD class=3D"r data">89.27</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.060487974</TH>
+    <TD class=3D"r data">15</TD>
+    <TD class=3D"r data">0.08</TD>
+    <TD class=3D"r data">15821</TD>
+    <TD class=3D"r data">89.36</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.081541383</TH>
+    <TD class=3D"r data">75</TD>
+    <TD class=3D"r data">0.42</TD>
+    <TD class=3D"r data">15896</TD>
+    <TD class=3D"r data">89.78</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.10216067</TH>
+    <TD class=3D"r data">22</TD>
+    <TD class=3D"r data">0.12</TD>
+    <TD class=3D"r data">15918</TD>
+    <TD class=3D"r data">89.91</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.122363377</TH>
+    <TD class=3D"r data">304</TD>
+    <TD class=3D"r data">1.72</TD>
+    <TD class=3D"r data">16222</TD>
+    <TD class=3D"r data">91.62</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.142166005</TH>
+    <TD class=3D"r data">5</TD>
+    <TD class=3D"r data">0.03</TD>
+    <TD class=3D"r data">16227</TD>
+    <TD class=3D"r data">91.65</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.161584091</TH>
+    <TD class=3D"r data">13</TD>
+    <TD class=3D"r data">0.07</TD>
+    <TD class=3D"r data">16240</TD>
+    <TD class=3D"r data">91.73</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.180632286</TH>
+    <TD class=3D"r data">38</TD>
+    <TD class=3D"r data">0.21</TD>
+    <TD class=3D"r data">16278</TD>
+    <TD class=3D"r data">91.94</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.199324419</TH>
+    <TD class=3D"r data">13</TD>
+    <TD class=3D"r data">0.07</TD>
+    <TD class=3D"r data">16291</TD>
+    <TD class=3D"r data">92.01</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.217673557</TH>
+    <TD class=3D"r data">114</TD>
+    <TD class=3D"r data">0.64</TD>
+    <TD class=3D"r data">16405</TD>
+    <TD class=3D"r data">92.66</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.235692063</TH>
+    <TD class=3D"r data">14</TD>
+    <TD class=3D"r data">0.08</TD>
+    <TD class=3D"r data">16419</TD>
+    <TD class=3D"r data">92.74</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.25339164</TH>
+    <TD class=3D"r data">6</TD>
+    <TD class=3D"r data">0.03</TD>
+    <TD class=3D"r data">16425</TD>
+    <TD class=3D"r data">92.77</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.270783383</TH>
+    <TD class=3D"r data">35</TD>
+    <TD class=3D"r data">0.20</TD>
+    <TD class=3D"r data">16460</TD>
+    <TD class=3D"r data">92.97</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.287877816</TH>
+    <TD class=3D"r data">11</TD>
+    <TD class=3D"r data">0.06</TD>
+    <TD class=3D"r data">16471</TD>
+    <TD class=3D"r data">93.03</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.304684934</TH>
+    <TD class=3D"r data">204</TD>
+    <TD class=3D"r data">1.15</TD>
+    <TD class=3D"r data">16675</TD>
+    <TD class=3D"r data">94.18</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.337474757</TH>
+    <TD class=3D"r data">11</TD>
+    <TD class=3D"r data">0.06</TD>
+    <TD class=3D"r data">16686</TD>
+    <TD class=3D"r data">94.24</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.353475098</TH>
+    <TD class=3D"r data">22</TD>
+    <TD class=3D"r data">0.12</TD>
+    <TD class=3D"r data">16708</TD>
+    <TD class=3D"r data">94.37</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.369223455</TH>
+    <TD class=3D"r data">6</TD>
+    <TD class=3D"r data">0.03</TD>
+    <TD class=3D"r data">16714</TD>
+    <TD class=3D"r data">94.40</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.384727642</TH>
+    <TD class=3D"r data">108</TD>
+    <TD class=3D"r data">0.61</TD>
+    <TD class=3D"r data">16822</TD>
+    <TD class=3D"r data">95.01</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.399995114</TH>
+    <TD class=3D"r data">4</TD>
+    <TD class=3D"r data">0.02</TD>
+    <TD class=3D"r data">16826</TD>
+    <TD class=3D"r data">95.04</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.415032991</TH>
+    <TD class=3D"r data">7</TD>
+    <TD class=3D"r data">0.04</TD>
+    <TD class=3D"r data">16833</TD>
+    <TD class=3D"r data">95.07</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.429848077</TH>
+    <TD class=3D"r data">18</TD>
+    <TD class=3D"r data">0.10</TD>
+    <TD class=3D"r data">16851</TD>
+    <TD class=3D"r data">95.18</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.444446877</TH>
+    <TD class=3D"r data">6</TD>
+    <TD class=3D"r data">0.03</TD>
+    <TD class=3D"r data">16857</TD>
+    <TD class=3D"r data">95.21</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.458835614</TH>
+    <TD class=3D"r data">119</TD>
+    <TD class=3D"r data">0.67</TD>
+    <TD class=3D"r data">16976</TD>
+    <TD class=3D"r data">95.88</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.473020249</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.01</TD>
+    <TD class=3D"r data">16977</TD>
+    <TD class=3D"r data">95.89</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.487006491</TH>
+    <TD class=3D"r data">5</TD>
+    <TD class=3D"r data">0.03</TD>
+    <TD class=3D"r data">16982</TD>
+    <TD class=3D"r data">95.92</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.500799813</TH>
+    <TD class=3D"r data">7</TD>
+    <TD class=3D"r data">0.04</TD>
+    <TD class=3D"r data">16989</TD>
+    <TD class=3D"r data">95.96</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.514405465</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.01</TD>
+    <TD class=3D"r data">16990</TD>
+    <TD class=3D"r data">95.96</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.527828486</TH>
+    <TD class=3D"r data">95</TD>
+    <TD class=3D"r data">0.54</TD>
+    <TD class=3D"r data">17085</TD>
+    <TD class=3D"r data">96.50</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.541073712</TH>
+    <TD class=3D"r data">3</TD>
+    <TD class=3D"r data">0.02</TD>
+    <TD class=3D"r data">17088</TD>
+    <TD class=3D"r data">96.52</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.554145794</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.01</TD>
+    <TD class=3D"r data">17089</TD>
+    <TD class=3D"r data">96.52</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.567049199</TH>
+    <TD class=3D"r data">8</TD>
+    <TD class=3D"r data">0.05</TD>
+    <TD class=3D"r data">17097</TD>
+    <TD class=3D"r data">96.57</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.579788224</TH>
+    <TD class=3D"r data">8</TD>
+    <TD class=3D"r data">0.05</TD>
+    <TD class=3D"r data">17105</TD>
+    <TD class=3D"r data">96.61</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.592367007</TH>
+    <TD class=3D"r data">109</TD>
+    <TD class=3D"r data">0.62</TD>
+    <TD class=3D"r data">17214</TD>
+    <TD class=3D"r data">97.23</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.604789527</TH>
+    <TD class=3D"r data">2</TD>
+    <TD class=3D"r data">0.01</TD>
+    <TD class=3D"r data">17216</TD>
+    <TD class=3D"r data">97.24</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.617059619</TH>
+    <TD class=3D"r data">2</TD>
+    <TD class=3D"r data">0.01</TD>
+    <TD class=3D"r data">17218</TD>
+    <TD class=3D"r data">97.25</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.62918098</TH>
+    <TD class=3D"r data">6</TD>
+    <TD class=3D"r data">0.03</TD>
+    <TD class=3D"r data">17224</TD>
+    <TD class=3D"r data">97.28</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.641157171</TH>
+    <TD class=3D"r data">2</TD>
+    <TD class=3D"r data">0.01</TD>
+    <TD class=3D"r data">17226</TD>
+    <TD class=3D"r data">97.29</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.652991628</TH>
+    <TD class=3D"r data">55</TD>
+    <TD class=3D"r data">0.31</TD>
+    <TD class=3D"r data">17281</TD>
+    <TD class=3D"r data">97.61</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.664687668</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.01</TD>
+    <TD class=3D"r data">17282</TD>
+    <TD class=3D"r data">97.61</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.676248491</TH>
+    <TD class=3D"r data">2</TD>
+    <TD class=3D"r data">0.01</TD>
+    <TD class=3D"r data">17284</TD>
+    <TD class=3D"r data">97.62</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.687677186</TH>
+    <TD class=3D"r data">8</TD>
+    <TD class=3D"r data">0.05</TD>
+    <TD class=3D"r data">17292</TD>
+    <TD class=3D"r data">97.67</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.698976742</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.01</TD>
+    <TD class=3D"r data">17293</TD>
+    <TD class=3D"r data">97.67</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.710150042</TH>
+    <TD class=3D"r data">57</TD>
+    <TD class=3D"r data">0.32</TD>
+    <TD class=3D"r data">17350</TD>
+    <TD class=3D"r data">97.99</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.732128949</TH>
+    <TD class=3D"r data">2</TD>
+    <TD class=3D"r data">0.01</TD>
+    <TD class=3D"r data">17352</TD>
+    <TD class=3D"r data">98.01</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.742939865</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.01</TD>
+    <TD class=3D"r data">17353</TD>
+    <TD class=3D"r data">98.01</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.764217264</TH>
+    <TD class=3D"r data">15</TD>
+    <TD class=3D"r data">0.08</TD>
+    <TD class=3D"r data">17368</TD>
+    <TD class=3D"r data">98.10</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.774688563</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.01</TD>
+    <TD class=3D"r data">17369</TD>
+    <TD class=3D"r data">98.10</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.78505135</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.01</TD>
+    <TD class=3D"r data">17370</TD>
+    <TD class=3D"r data">98.11</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.795307851</TH>
+    <TD class=3D"r data">4</TD>
+    <TD class=3D"r data">0.02</TD>
+    <TD class=3D"r data">17374</TD>
+    <TD class=3D"r data">98.13</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.805460222</TH>
+    <TD class=3D"r data">3</TD>
+    <TD class=3D"r data">0.02</TD>
+    <TD class=3D"r data">17377</TD>
+    <TD class=3D"r data">98.15</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.815510558</TH>
+    <TD class=3D"r data">106</TD>
+    <TD class=3D"r data">0.60</TD>
+    <TD class=3D"r data">17483</TD>
+    <TD class=3D"r data">98.75</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.825460889</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.01</TD>
+    <TD class=3D"r data">17484</TD>
+    <TD class=3D"r data">98.75</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.835313185</TH>
+    <TD class=3D"r data">2</TD>
+    <TD class=3D"r data">0.01</TD>
+    <TD class=3D"r data">17486</TD>
+    <TD class=3D"r data">98.76</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.854731271</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.01</TD>
+    <TD class=3D"r data">17487</TD>
+    <TD class=3D"r data">98.77</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.864300722</TH>
+    <TD class=3D"r data">3</TD>
+    <TD class=3D"r data">0.02</TD>
+    <TD class=3D"r data">17490</TD>
+    <TD class=3D"r data">98.79</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.892471599</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.01</TD>
+    <TD class=3D"r data">17491</TD>
+    <TD class=3D"r data">98.79</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.910820738</TH>
+    <TD class=3D"r data">18</TD>
+    <TD class=3D"r data">0.10</TD>
+    <TD class=3D"r data">17509</TD>
+    <TD class=3D"r data">98.89</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>13.997832115</TH>
+    <TD class=3D"r data">32</TD>
+    <TD class=3D"r data">0.18</TD>
+    <TD class=3D"r data">17541</TD>
+    <TD class=3D"r data">99.07</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14.038654109</TH>
+    <TD class=3D"r data">7</TD>
+    <TD class=3D"r data">0.04</TD>
+    <TD class=3D"r data">17548</TD>
+    <TD class=3D"r data">99.11</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14.077874822</TH>
+    <TD class=3D"r data">7</TD>
+    <TD class=3D"r data">0.04</TD>
+    <TD class=3D"r data">17555</TD>
+    <TD class=3D"r data">99.15</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14.11561515</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.01</TD>
+    <TD class=3D"r data">17556</TD>
+    <TD class=3D"r data">99.16</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14.151982795</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.01</TD>
+    <TD class=3D"r data">17557</TD>
+    <TD class=3D"r data">99.16</TD></TR>
+  <TR>
+    <TH class=3D"r rowheader" scope=3Drow>14.739769459</TH>
+    <TD class=3D"r data">148</TD>
+    <TD class=3D"r data">0.84</TD>
+    <TD class=3D"r data">17705</TD>
+    <TD=20
+class=3D"r =
+data">100.00</TD></TR></TBODY></TABLE></DIV></DIV><BR></DIV></BODY></HTML=
+>

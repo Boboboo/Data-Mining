@@ -1,0 +1,993 @@
+From: =?Windows-1252?B?08kgV2luZG93cyBJbnRlcm5ldCBFeHBsb3JlciA5ILGjtOY=?=
+Subject: SAS Output
+Date: Tue, 9 May 2017 19:48:11 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file://C:\Users\pc\AppData\Local\Temp\SAS Temporary Files\_TD5508_PC-PC_\sashtml.htm
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.23573
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>SAS Output</TITLE>
+<META name=3DGENERATOR content=3D"MSHTML 9.00.8112.16737">
+<META content=3D"text/html; charset=3Dwindows-1252" =
+http-equiv=3DContent-type>
+<STYLE type=3Dtext/css>.aftercaption {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; BORDER-SPACING: 0px; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #112277; =
+FONT-SIZE: x-small; FONT-WEIGHT: bold; PADDING-TOP: 4pt
+}
+.batch {
+	BORDER-BOTTOM: #c1c1c1 1px solid; BORDER-LEFT: #c1c1c1 1px solid; =
+PADDING-BOTTOM: 7px; BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; =
+PADDING-LEFT: 7px; BORDER-SPACING: 1px; PADDING-RIGHT: 7px; =
+BORDER-COLLAPSE: separate; FONT-FAMILY: 'SAS Monospace', 'Courier New', =
+Courier, monospace; COLOR: #000000; FONT-SIZE: x-small; BORDER-TOP: =
+#c1c1c1 1px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #c1c1c1 1px solid; =
+PADDING-TOP: 7px
+}
+.beforecaption {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; BORDER-SPACING: 0px; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #112277; =
+FONT-SIZE: x-small; FONT-WEIGHT: bold
+}
+.body {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #000000; MARGIN-LEFT: 8px; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal; MARGIN-RIGHT: 8px
+}
+.bodydate {
+	TEXT-ALIGN: right; BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; =
+BORDER-SPACING: 0px; WIDTH: 100%; FONT-FAMILY: Arial, 'Albany AMT', =
+Helvetica, Helv; COLOR: #000000; FONT-SIZE: x-small; VERTICAL-ALIGN: =
+top; FONT-WEIGHT: normal
+}
+.bycontentfolder {
+	LIST-STYLE-TYPE: none; FONT-STYLE: normal; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; COLOR: #000000; MARGIN-LEFT: 6pt; FONT-SIZE: =
+x-small; FONT-WEIGHT: normal
+}
+.byline {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; BORDER-SPACING: 0px; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #112277; =
+FONT-SIZE: x-small; FONT-WEIGHT: bold
+}
+.bylinecontainer {
+	BORDER-BOTTOM: #000000 0px solid; BORDER-LEFT: #000000 0px solid; =
+BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; BORDER-SPACING: 1px; =
+WIDTH: 100%; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: =
+#000000; FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-WEIGHT: =
+normal; BORDER-RIGHT: #000000 0px solid
+}
+.caption {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; BORDER-SPACING: 0px; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #112277; =
+FONT-SIZE: x-small; FONT-WEIGHT: bold
+}
+.cell {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #000000; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.container {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #000000; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.contentfolder {
+	LIST-STYLE-TYPE: none; FONT-STYLE: normal; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; COLOR: #000000; MARGIN-LEFT: 6pt; FONT-SIZE: =
+x-small; FONT-WEIGHT: normal
+}
+.contentitem {
+	LIST-STYLE-TYPE: none; FONT-STYLE: normal; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; COLOR: #000000; MARGIN-LEFT: 6pt; FONT-SIZE: =
+x-small; FONT-WEIGHT: normal
+}
+.contentproclabel {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: bold
+}
+.contentprocname {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: bold
+}
+.contents {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: decimal; FONT-STYLE: =
+normal; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: =
+#000000; MARGIN-LEFT: 8px; FONT-SIZE: x-small; FONT-WEIGHT: normal; =
+MARGIN-RIGHT: 8px
+}
+.contentsdate {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; WIDTH: 100%; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.contenttitle {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: italic; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: bold
+}
+.continued {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; BORDER-SPACING: 0px; =
+WIDTH: 100%; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: =
+#112277; FONT-SIZE: x-small; FONT-WEIGHT: bold
+}
+.data {
+	BORDER-BOTTOM: #c1c1c1 1px solid; BORDER-LEFT: #c1c1c1 0px solid; =
+BACKGROUND-COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 =
+0px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #c1c1c1 1px solid
+}
+.dataemphasis {
+	BORDER-BOTTOM: #c1c1c1 1px solid; BORDER-LEFT: #c1c1c1 0px solid; =
+BACKGROUND-COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 =
+0px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #c1c1c1 1px solid
+}
+.dataemphasisfixed {
+	BORDER-BOTTOM: #c1c1c1 1px solid; BORDER-LEFT: #c1c1c1 0px solid; =
+BACKGROUND-COLOR: #ffffff; FONT-STYLE: italic; FONT-FAMILY: 'Courier =
+New', Courier, monospace; FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px =
+solid; FONT-WEIGHT: normal; BORDER-RIGHT: #c1c1c1 1px solid
+}
+.dataempty {
+	BORDER-BOTTOM: #c1c1c1 1px solid; BORDER-LEFT: #c1c1c1 0px solid; =
+BACKGROUND-COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 =
+0px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #c1c1c1 1px solid
+}
+.datafixed {
+	BORDER-BOTTOM: #c1c1c1 1px solid; BORDER-LEFT: #c1c1c1 0px solid; =
+BACKGROUND-COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: 'Courier =
+New', Courier; FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; =
+FONT-WEIGHT: normal; BORDER-RIGHT: #c1c1c1 1px solid
+}
+.datastrong {
+	BORDER-BOTTOM: #c1c1c1 1px solid; BORDER-LEFT: #c1c1c1 0px solid; =
+BACKGROUND-COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #000000; FONT-SIZE: x-small; =
+BORDER-TOP: #c1c1c1 0px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #c1c1c1 =
+1px solid
+}
+.datastrongfixed {
+	BORDER-BOTTOM: #c1c1c1 1px solid; BORDER-LEFT: #c1c1c1 0px solid; =
+BACKGROUND-COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: 'Courier =
+New', Courier, monospace; COLOR: #000000; FONT-SIZE: x-small; =
+BORDER-TOP: #c1c1c1 0px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #c1c1c1 =
+1px solid
+}
+.date {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; WIDTH: 100%; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.document {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #000000; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+A:link {
+	COLOR: #0000ff
+}
+A:visited {
+	COLOR: #800080
+}
+A:active {
+	COLOR: #800080
+}
+.errorbanner {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: bold
+}
+.errorcontent {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.errorcontentfixed {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: 'Courier =
+New', Courier; COLOR: #112277; FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.extendedpage {
+	BORDER-BOTTOM: #000000 1pt solid; TEXT-ALIGN: center; BORDER-LEFT: =
+#000000 1pt solid; BACKGROUND-COLOR: #fafbfe; FONT-STYLE: italic; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #112277; =
+FONT-SIZE: x-small; BORDER-TOP: #000000 1pt solid; FONT-WEIGHT: normal; =
+BORDER-RIGHT: #000000 1pt solid
+}
+.fatalbanner {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: bold
+}
+.fatalcontent {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.fatalcontentfixed {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: 'Courier =
+New', Courier; COLOR: #112277; FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.folderaction {
+	LIST-STYLE-TYPE: none; FONT-STYLE: normal; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; COLOR: #000000; MARGIN-LEFT: 6pt; FONT-SIZE: =
+x-small; FONT-WEIGHT: normal
+}
+.footer {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #b0b7bb =
+1px solid
+}
+.footeremphasis {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: italic; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: normal; BORDER-RIGHT: =
+#b0b7bb 1px solid
+}
+.footeremphasisfixed {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: italic; FONT-FAMILY: 'Courier =
+New', Courier, monospace; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: normal; BORDER-RIGHT: =
+#b0b7bb 1px solid
+}
+.footerempty {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #b0b7bb =
+1px solid
+}
+.footerfixed {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: normal; FONT-FAMILY: 'Courier =
+New', Courier; COLOR: #112277; FONT-SIZE: x-small; BORDER-TOP: #b0b7bb =
+0px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #b0b7bb 1px solid
+}
+.footerstrong {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #b0b7bb =
+1px solid
+}
+.footerstrongfixed {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: normal; FONT-FAMILY: 'Courier =
+New', Courier, monospace; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #b0b7bb =
+1px solid
+}
+.frame {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #000000; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.graph {
+	BORDER-BOTTOM: #c1c1c1 1px solid; BORDER-LEFT: #c1c1c1 1px solid; =
+BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; BORDER-SPACING: 1px; =
+BORDER-COLLAPSE: separate; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, =
+Helv; COLOR: #000000; FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; BORDER-RIGHT: #c1c1c1 1px solid
+}
+.header {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #b0b7bb =
+1px solid
+}
+.headeremphasis {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #d8dbd3; FONT-STYLE: italic; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #000000; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: normal; BORDER-RIGHT: =
+#b0b7bb 1px solid
+}
+.headeremphasisfixed {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #d8dbd3; FONT-STYLE: italic; FONT-FAMILY: 'Courier =
+New', Courier, monospace; COLOR: #000000; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: normal; BORDER-RIGHT: =
+#b0b7bb 1px solid
+}
+.headerempty {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #b0b7bb =
+1px solid
+}
+.headerfixed {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: normal; FONT-FAMILY: 'Courier =
+New', Courier; COLOR: #112277; FONT-SIZE: x-small; BORDER-TOP: #b0b7bb =
+0px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #b0b7bb 1px solid
+}
+.headersandfooters {
+	BACKGROUND-COLOR: #edf2f9; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #000000; FONT-SIZE: x-small; =
+FONT-WEIGHT: bold
+}
+.headerstrong {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #d8dbd3; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #000000; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #b0b7bb =
+1px solid
+}
+.headerstrongfixed {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #d8dbd3; FONT-STYLE: normal; FONT-FAMILY: 'Courier =
+New', Courier, monospace; COLOR: #000000; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #b0b7bb =
+1px solid
+}
+.index {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #000000; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.indexaction {
+	LIST-STYLE-TYPE: none; FONT-STYLE: normal; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; COLOR: #000000; MARGIN-LEFT: 6pt; FONT-SIZE: =
+x-small; FONT-WEIGHT: normal
+}
+.indexitem {
+	LIST-STYLE-TYPE: none; FONT-STYLE: normal; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; COLOR: #000000; MARGIN-LEFT: 6pt; FONT-SIZE: =
+x-small; FONT-WEIGHT: normal
+}
+.indexprocname {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: bold
+}
+.indextitle {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: italic; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: bold
+}
+.layoutcontainer {
+	BORDER-BOTTOM: #000000 0px solid; BORDER-LEFT: #000000 0px solid; =
+BORDER-SPACING: 30px; BORDER-TOP: #000000 0px solid; BORDER-RIGHT: =
+#000000 0px solid
+}
+.layoutregion {
+	BORDER-BOTTOM: #000000 0px solid; BORDER-LEFT: #000000 0px solid; =
+BORDER-SPACING: 30px; BORDER-TOP: #000000 0px solid; BORDER-RIGHT: =
+#000000 0px solid
+}
+.linecontent {
+	BORDER-BOTTOM: #c1c1c1 1px solid; BORDER-LEFT: #c1c1c1 0px solid; =
+BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #c1c1c1 0px solid; FONT-WEIGHT: normal; BORDER-RIGHT: =
+#c1c1c1 1px solid
+}
+.list {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: disc; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.list10 {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: square; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.list2 {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: circle; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.list3 {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: square; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.list4 {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: square; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.list5 {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: square; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.list6 {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: square; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.list7 {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: square; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.list8 {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: square; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.list9 {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: square; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.listitem {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: disc; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.listitem10 {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: square; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.listitem2 {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: circle; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.listitem3 {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: square; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.listitem4 {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: square; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.listitem5 {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: square; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.listitem6 {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: square; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.listitem7 {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: square; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.listitem8 {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: square; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.listitem9 {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: square; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.note {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.notebanner {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: bold
+}
+.notecontent {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.notecontentfixed {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: 'Courier =
+New', Courier; COLOR: #112277; FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.output {
+	BORDER-BOTTOM: #c1c1c1 1px solid; BORDER-LEFT: #c1c1c1 1px solid; =
+BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; BORDER-SPACING: 1px; =
+BORDER-COLLAPSE: separate; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, =
+Helv; COLOR: #000000; FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; BORDER-RIGHT: #c1c1c1 1px solid
+}
+.pageno {
+	TEXT-ALIGN: right; BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; =
+BORDER-SPACING: 0px; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+COLOR: #112277; FONT-SIZE: x-small; VERTICAL-ALIGN: top; FONT-WEIGHT: =
+bold
+}
+.pages {
+	BACKGROUND-COLOR: #fafbfe; LIST-STYLE-TYPE: decimal; FONT-STYLE: =
+normal; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: =
+#000000; MARGIN-LEFT: 8px; FONT-SIZE: x-small; FONT-WEIGHT: normal; =
+MARGIN-RIGHT: 8px
+}
+.pagesdate {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; WIDTH: 100%; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #000000; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.pagesitem {
+	LIST-STYLE-TYPE: none; FONT-STYLE: normal; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; COLOR: #000000; MARGIN-LEFT: 6pt; FONT-SIZE: =
+x-small; FONT-WEIGHT: normal
+}
+.pagesproclabel {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: bold
+}
+.pagesprocname {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: bold
+}
+.pagestitle {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: italic; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: bold
+}
+.paragraph {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #000000; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.parskip {
+	BORDER-BOTTOM: #000000 0px solid; BORDER-LEFT: #000000 0px solid; =
+FONT-STYLE: normal; BORDER-SPACING: 0px; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-SIZE: x-small; BORDER-TOP: #000000 0px =
+solid; FONT-WEIGHT: bold; BORDER-RIGHT: #000000 0px solid
+}
+.prepage {
+	TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; =
+FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: #112277; =
+FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.proctitle {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: bold
+}
+.proctitlefixed {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: 'Courier =
+New', Courier, monospace; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: bold
+}
+.rowfooter {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #b0b7bb =
+1px solid
+}
+.rowfooteremphasis {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: italic; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: normal; BORDER-RIGHT: =
+#b0b7bb 1px solid
+}
+.rowfooteremphasisfixed {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: italic; FONT-FAMILY: 'Courier =
+New', Courier, monospace; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: normal; BORDER-RIGHT: =
+#b0b7bb 1px solid
+}
+.rowfooterempty {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #b0b7bb =
+1px solid
+}
+.rowfooterfixed {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: normal; FONT-FAMILY: 'Courier =
+New', Courier; COLOR: #112277; FONT-SIZE: x-small; BORDER-TOP: #b0b7bb =
+0px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #b0b7bb 1px solid
+}
+.rowfooterstrong {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #b0b7bb =
+1px solid
+}
+.rowfooterstrongfixed {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: normal; FONT-FAMILY: 'Courier =
+New', Courier, monospace; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #b0b7bb =
+1px solid
+}
+.rowheader {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #b0b7bb =
+1px solid
+}
+.rowheaderemphasis {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: italic; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: normal; BORDER-RIGHT: =
+#b0b7bb 1px solid
+}
+.rowheaderemphasisfixed {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: italic; FONT-FAMILY: 'Courier =
+New', Courier, monospace; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: normal; BORDER-RIGHT: =
+#b0b7bb 1px solid
+}
+.rowheaderempty {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #b0b7bb =
+1px solid
+}
+.rowheaderfixed {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: normal; FONT-FAMILY: 'Courier =
+New', Courier; COLOR: #112277; FONT-SIZE: x-small; BORDER-TOP: #b0b7bb =
+0px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #b0b7bb 1px solid
+}
+.rowheaderstrong {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #b0b7bb =
+1px solid
+}
+.rowheaderstrongfixed {
+	BORDER-BOTTOM: #b0b7bb 1px solid; BORDER-LEFT: #b0b7bb 0px solid; =
+BACKGROUND-COLOR: #edf2f9; FONT-STYLE: normal; FONT-FAMILY: 'Courier =
+New', Courier, monospace; COLOR: #112277; FONT-SIZE: x-small; =
+BORDER-TOP: #b0b7bb 0px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #b0b7bb =
+1px solid
+}
+.systemfooter {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.systemfooter10 {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.systemfooter2 {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.systemfooter3 {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.systemfooter4 {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.systemfooter5 {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.systemfooter6 {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.systemfooter7 {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.systemfooter8 {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.systemfooter9 {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.systemtitle {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: small; =
+FONT-WEIGHT: bold
+}
+.systemtitle10 {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: small; =
+FONT-WEIGHT: bold
+}
+.systemtitle2 {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: small; =
+FONT-WEIGHT: bold
+}
+.systemtitle3 {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: small; =
+FONT-WEIGHT: bold
+}
+.systemtitle4 {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: small; =
+FONT-WEIGHT: bold
+}
+.systemtitle5 {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: small; =
+FONT-WEIGHT: bold
+}
+.systemtitle6 {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: small; =
+FONT-WEIGHT: bold
+}
+.systemtitle7 {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: small; =
+FONT-WEIGHT: bold
+}
+.systemtitle8 {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: small; =
+FONT-WEIGHT: bold
+}
+.systemtitle9 {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: small; =
+FONT-WEIGHT: bold
+}
+.systitleandfootercontainer {
+	BORDER-BOTTOM: #000000 0px solid; BORDER-LEFT: #000000 0px solid; =
+BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; BORDER-SPACING: 1px; =
+WIDTH: 100%; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: =
+#000000; FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-WEIGHT: =
+normal; BORDER-RIGHT: #000000 0px solid
+}
+.table {
+	BORDER-BOTTOM: #c1c1c1 0px solid; BORDER-LEFT: #c1c1c1 1px solid; =
+BORDER-SPACING: 0px; BORDER-COLLAPSE: collapse; BORDER-TOP: #c1c1c1 1px =
+solid; BORDER-RIGHT: #c1c1c1 0px solid
+}
+.top_stacked_value {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 1px; BORDER-TOP: =
+0px; BORDER-RIGHT: 0px
+}
+.middle_stacked_value {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 1px; BORDER-TOP: =
+0px; BORDER-RIGHT: 0px; PADDING-TOP: 1px
+}
+.bottom_stacked_value {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: =
+0px; PADDING-TOP: 1px
+}
+.titleandnotecontainer {
+	BORDER-BOTTOM: #000000 0px solid; BORDER-LEFT: #000000 0px solid; =
+BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; BORDER-SPACING: 1px; =
+WIDTH: 100%; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; COLOR: =
+#000000; FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-WEIGHT: =
+normal; BORDER-RIGHT: #000000 0px solid
+}
+.titlesandfooters {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: bold
+}
+.usertext {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.warnbanner {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: bold
+}
+.warncontent {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; COLOR: #112277; FONT-SIZE: x-small; =
+FONT-WEIGHT: normal
+}
+.warncontentfixed {
+	BACKGROUND-COLOR: #fafbfe; FONT-STYLE: normal; FONT-FAMILY: 'Courier =
+New', Courier; COLOR: #112277; FONT-SIZE: x-small; FONT-WEIGHT: normal
+}
+.l {
+	TEXT-ALIGN: left
+}
+.c {
+	TEXT-ALIGN: center
+}
+.r {
+	TEXT-ALIGN: right
+}
+.d {
+	TEXT-ALIGN: right
+}
+.j {
+	TEXT-ALIGN: justify
+}
+.t {
+	VERTICAL-ALIGN: top
+}
+.m {
+	VERTICAL-ALIGN: middle
+}
+.b {
+	VERTICAL-ALIGN: bottom
+}
+TD {
+	VERTICAL-ALIGN: top
+}
+TH {
+	VERTICAL-ALIGN: top
+}
+.stacked_cell {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; =
+PADDING-TOP: 0px
+}
+</STYLE>
+
+<SCRIPT language=3Djavascript type=3Dtext/javascript>
+<!--=20
+function startup(){
+
+}
+function shutdown(){
+
+}
+
+//-->
+</SCRIPT>
+</HEAD>
+<BODY onload=3Dstartup() class=3Dbody onunload=3Dshutdown()>
+<SCRIPT language=3Djavascript type=3Dtext/javascript>
+<!--=20
+var _info =3D navigator.userAgent
+var _ie =3D (_info.indexOf("MSIE") > 0
+          && _info.indexOf("Win") > 0
+          && _info.indexOf("Windows 3.1") < 0);
+var _ie64 =3D _info.indexOf("x64") > 0
+
+//-->
+</SCRIPT>
+
+<DIV class=3Dbranch><A name=3DIDX></A>
+<TABLE class=3Dsystitleandfootercontainer border=3D0 rules=3Dnone =
+cellSpacing=3D1=20
+summary=3D"Page Layout" cellPadding=3D1 width=3D"100%" frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">The SAS =
+System</TD></TR></TBODY></TABLE><BR>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable rules=3Dall cellSpacing=3D0 borderColor=3D#c1c1c1=20
+summary=3D"Procedure IML: M" cellPadding=3D5 frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D6 =
+scope=3Dcolgroup>M</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"r data">0</TD>
+    <TD class=3D"r data">0</TD>
+    <TD class=3D"r data">0.3333333</TD>
+    <TD class=3D"r data">0.5</TD>
+    <TD class=3D"r data">0</TD>
+    <TD class=3D"r data">0.1666667</TD></TR>
+  <TR>
+    <TD class=3D"r data">0.25</TD>
+    <TD class=3D"r data">0</TD>
+    <TD class=3D"r data">0.3333333</TD>
+    <TD class=3D"r data">0</TD>
+    <TD class=3D"r data">0</TD>
+    <TD class=3D"r data">0.1666667</TD></TR>
+  <TR>
+    <TD class=3D"r data">0.25</TD>
+    <TD class=3D"r data">0</TD>
+    <TD class=3D"r data">0</TD>
+    <TD class=3D"r data">0.5</TD>
+    <TD class=3D"r data">0.3333333</TD>
+    <TD class=3D"r data">0.1666667</TD></TR>
+  <TR>
+    <TD class=3D"r data">0.25</TD>
+    <TD class=3D"r data">0.3333333</TD>
+    <TD class=3D"r data">0.3333333</TD>
+    <TD class=3D"r data">0</TD>
+    <TD class=3D"r data">0.3333333</TD>
+    <TD class=3D"r data">0.1666667</TD></TR>
+  <TR>
+    <TD class=3D"r data">0.25</TD>
+    <TD class=3D"r data">0.3333333</TD>
+    <TD class=3D"r data">0</TD>
+    <TD class=3D"r data">0</TD>
+    <TD class=3D"r data">0</TD>
+    <TD class=3D"r data">0.1666667</TD></TR>
+  <TR>
+    <TD class=3D"r data">0</TD>
+    <TD class=3D"r data">0.3333333</TD>
+    <TD class=3D"r data">0</TD>
+    <TD class=3D"r data">0</TD>
+    <TD class=3D"r data">0.3333333</TD>
+    <TD class=3D"r =
+data">0.1666667</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX1></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable rules=3Dall cellSpacing=3D0 borderColor=3D#c1c1c1=20
+summary=3D"Procedure IML: rank_p" cellPadding=3D5 frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" scope=3Dcol>rank_p</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"r data">0.1666667</TD></TR>
+  <TR>
+    <TD class=3D"r data">0.1666667</TD></TR>
+  <TR>
+    <TD class=3D"r data">0.1666667</TD></TR>
+  <TR>
+    <TD class=3D"r data">0.1666667</TD></TR>
+  <TR>
+    <TD class=3D"r data">0.1666667</TD></TR>
+  <TR>
+    <TD class=3D"r =
+data">0.1666667</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX2></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable rules=3Dall cellSpacing=3D0 borderColor=3D#c1c1c1=20
+summary=3D"Procedure IML: rank_p50" cellPadding=3D5 frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" scope=3Dcol>rank_p50</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=3D"r data">0.2018666</TD></TR>
+  <TR>
+    <TD class=3D"r data">0.1399931</TD></TR>
+  <TR>
+    <TD class=3D"r data">0.217767</TD></TR>
+  <TR>
+    <TD class=3D"r data">0.2246803</TD></TR>
+  <TR>
+    <TD class=3D"r data">0.1140684</TD></TR>
+  <TR>
+    <TD=20
+class=3D"r =
+data">0.1016246</TD></TR></TBODY></TABLE></DIV></DIV><BR></DIV></BODY></H=
+TML>
